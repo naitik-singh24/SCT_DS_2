@@ -2,7 +2,7 @@
 
 # Task 02 - Data Visualization using Bar Charts and Histograms
 
-🚀 Successfully completed Task 02 as part of my internship at SkillCraft Technology.
+ Successfully completed Task 02 as part of my internship at SkillCraft Technology.
 
 This project focuses on data visualization techniques to analyze and understand population distribution data. Using Python and visualization libraries, I created bar charts and histograms to represent categorical and continuous variables effectively. The visualizations help uncover trends, patterns, and insights from the dataset in a clear and meaningful way.
 
@@ -37,5 +37,5 @@ Through this project, I developed a stronger understanding of data visualization
 
 This task enhanced my analytical thinking and strengthened my foundation in data science and data analytics.
 
-⭐ Thank you for visiting this repository. Feel free to explore the project and share your feedback!
+ Thank you for visiting this repository. Feel free to explore the project and share your feedback!
 
